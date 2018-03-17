@@ -1,5 +1,8 @@
 package effective.interfaces;
 
-public interface Service {
 
+//Service provider framework sketch
+public interface Service {
+ //... Service-specific methods go here
+	
 }
