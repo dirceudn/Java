@@ -13,6 +13,7 @@ public class NutritionFactsBuilderPattern {
 		// Required parameters
 		private final int servingSize;
 		private final int servings;
+		
 		// Optional parameters - initialized to default values
 		private int calories = 0;
 		private int fat = 0;
